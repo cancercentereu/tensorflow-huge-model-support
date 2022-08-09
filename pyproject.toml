@@ -7,7 +7,6 @@ license = "CC BY-NC-SA 4.0"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-tensorflow-gpu = "1.15.5"
 GPUtil = "^1.4.0"
 networkx = "2.2"
 pycrypto = "^2.6.1"
